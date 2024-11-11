@@ -1,4 +1,4 @@
 #Guacomole recipe
 .avocado
-lemon
+lime
 salt
